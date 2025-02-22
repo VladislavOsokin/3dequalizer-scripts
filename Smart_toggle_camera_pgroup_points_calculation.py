@@ -4,7 +4,7 @@
 # 3DE4.script.version:	v1.0
 #
 # 3DE4.script.gui:		Manual Tracking Controls::View
-# 3DE4.script.gui:	Main Window::Shotcuts
+# 3DE4.script.gui:	Main Window::Shortcuts
 #
 # Internal comment:	v1.0 - initial
 #
